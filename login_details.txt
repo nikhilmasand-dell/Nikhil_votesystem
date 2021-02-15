@@ -1,0 +1,4 @@
+admin:Nikhil
+password : password 
+
+also open mysql and do the necessary login in mysql server
